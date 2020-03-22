@@ -35,4 +35,4 @@ Imports: gtools,
          mvtnorm
 URL: https://github.com/dm13450/dirichletprocess
 BugReports: https://github.com/dm13450/dirichletprocess/issues
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0

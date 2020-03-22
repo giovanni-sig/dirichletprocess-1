@@ -12,8 +12,12 @@ DiagnosticPlots(dpobj, gg = FALSE)
 
 AlphaTraceplot(dpobj, gg = TRUE)
 
-AlphaPriorPosteriorPlot(dpobj, prior_color = "#2c7fb8",
-  post_color = "#d95f02", gg = TRUE)
+AlphaPriorPosteriorPlot(
+  dpobj,
+  prior_color = "#2c7fb8",
+  post_color = "#d95f02",
+  gg = TRUE
+)
 
 ClusterTraceplot(dpobj, gg = TRUE)
 
